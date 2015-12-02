@@ -9,3 +9,4 @@ JavaScript arrays got you feeling crazy? Have no fear! These JS array resources 
 + [W3C Schools Array Methods](http://www.w3schools.com/js/js_array_methods.asp)
 
 + [JS Into Array Methods](http://javascript.info/tutorial/array)
+<a href='https://learn.co/lessons/hs-intro-web-design-arrays-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
